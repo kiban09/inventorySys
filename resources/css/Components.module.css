@@ -1,0 +1,49 @@
+body {
+  background-color: #9e9e9e;
+}
+.Box{
+    height: 100%;
+    width: 220px;
+    background-color: #212121;
+    position: fixed;
+    left: 0px;
+    display: flex;
+    align-items:center;
+  }
+.Btn{
+  height: 60px;
+  
+}
+.poster{
+  width: 100vw;
+  height: 100vh;
+  alt: "Poster";
+  position: fixed;
+  left: 0px;
+}
+.BoxPopUp {
+  margin: auto;
+  width: 400px;
+  height: 360px;
+  background-color: white;
+  display:grid;
+  justify-content:center;
+}
+
+.h5 {
+  margin: auto;
+  text-align: center;
+}
+
+.TextField{
+  width: 350px;
+  
+}
+
+.IconBtn{
+  float:inline-end;
+}
+.AccountIcon{
+  color:blue;
+  margin: auto;
+}
